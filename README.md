@@ -2,14 +2,7 @@
 #### I am a Frontend Developer. 
 
 ## Experience
-Beginners Web Team-Mentor
-
-
-### SKILLS
-*  React
-* Javascript
-* Html
-* CSS
+* Beginners Web Team-Mentor
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=2devyank&show_icons=true&count_private=true)  
 
