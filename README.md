@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Devyank
 #### I am a Frontend Developer
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2DEVYANK)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=2devyank&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=2devyank)  
