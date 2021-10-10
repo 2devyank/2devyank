@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Devyank
 #### I am a Frontend Developer
 
-<iframe src="https://giphy.com/embed/ggWA0Yobhgf17lMNpC" width="480" height="391" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/vidcon-transparent-vidcon2019-ggWA0Yobhgf17lMNpC">via GIPHY</a></p>
 
 ### SKILLS
 *  React
