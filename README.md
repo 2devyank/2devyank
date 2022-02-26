@@ -8,9 +8,14 @@
  
 ### Tech Stack: 
 ![image](https://user-images.githubusercontent.com/78840243/153851342-5e0332ee-4945-4c67-ba15-1edf95294f63.png)
+![image](https://user-images.githubusercontent.com/78840243/155849845-4b1d28fd-9281-4ad7-919a-77bed9c811fd.png)
 ![image](https://user-images.githubusercontent.com/78840243/153851158-7116fba8-e88d-46fb-a3d1-ec5d1b3e59ba.png)
 ![image](https://user-images.githubusercontent.com/78840243/153850490-1748b014-b9ae-49f4-affd-dcb0ccbc535c.png)
 ![image](https://user-images.githubusercontent.com/78840243/153850573-69680fcc-1a43-47fa-bd2d-35db2937f2ed.png)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=50px width=50px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height=60px width=60px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=50px width=50px  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height=50px width=50px  />
 
 
 ## Experience
