@@ -19,7 +19,7 @@
 
 
 ## Experience
-*  Web Team Beginners - Mentor [Google Developer Student Club ADGITM]
+*  Web Lead - Mentor [Google Developer Student Club ADGITM]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=2devyank&show_icons=true&count_private=true)  
 
