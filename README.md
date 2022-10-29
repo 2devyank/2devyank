@@ -2,7 +2,7 @@
 - #### I am a Frontend Developer.
 - #### Find my writings at 
   - [medium](https://medium.com/@devyanknagpal2002) 
-  - [DEV](https://dev.to/devyank_nagpal_c746402a7c) 
+  - [DEV](https://dev.to/2devyank) 
 - #### Ask me about JavaScript,React & Vue
 - #### 🥅 2022 Goals: Contribute more to Open Source projects
  
